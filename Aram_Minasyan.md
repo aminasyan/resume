@@ -12,18 +12,18 @@ https://github.com/aminasyan | https://copr.fedorainfracloud.org/coprs/aminasyan
 ---
 
 ## Skills
-- Deep knowledge & 20+ yrs experience in Linux OS, more specifically RHEL and derivatives, Rocky, Alma Linux, also knowledgeable in other flavors, Debian, Ubuntu, etc. Experience in other architecures like Arm and PPC.
+- Deep knowledge & 20+ yrs experience in Linux OS, more specifically RHEL and derivatives, Rocky, Alma Linux, also knowledgeable in other flavors, Debian, Ubuntu, etc. Experience in other architectures like Arm and PPC.
 - Knowledge and experience in other UNIX systems, HP-UX, IBM AIX, Solaris, FreeBSD.
 - Linux kernel configuration & tuning, build experience. solid knowledge of drivers/modules & driver configuration options.
 - Deep knowledge of Linux networking, Firewalls ( iptables/Firewalld), bridging, tunneling, bonding, virtual interfaces.
-- Deep knowledge & experience in Linux binaries, libraries, daemons, init, systemd, runlevels, boot process, Secure boot, UEFI, GRUB, U-boot, PXE-boot, in-memeory/diskless systems.
-- Deep knowledge in Linux RPM package management, RPM Build, SPEC files, RPM repositories & dependencies, also experience in DEB package management. Some experience in Make, cmake & other project builde nvironments.
+- Deep knowledge & experience in Linux binaries, libraries, daemons, init, systemd, runlevels, boot process, Secure boot, UEFI, GRUB, U-boot, PXE-boot, in-memory/diskless systems.
+- Deep knowledge in Linux RPM package management, RPM Build, SPEC files, RPM repositories & dependencies, also experience in DEB package management. Some experience in Make, cmake & other project build environments.
 - Some knowledge of Python, C/C++ & Java, compiling/debugging & patching source code, some limited modification of source code including kernel & drivers/modules. Solid knowledge of Bash/shell scripting.
-- Knowledge of source code artifact repositories, Git, Software build & lifecycle, Automated build & test systems, Jenkins, Automated configuration, Ansible.
+- Knowledge of source code artifact repositories, Git, Software build & life-cycle, Automated build & test systems, Jenkins, Automated configuration, Ansible.
 - Solid level of understanding in virtualization technologies, significant experience in QEMU/KVM, Libvirt & also in Vmware.Good Experience in oVirt (RHEV).
 - Solid level of understanding in container technologies, Docker, Podman and other container engines & runtimes. Building container images, experience with DockerFile, Experience in private Docker/container registries & access control.
 - Solid experience of private cloud environments like OpenStack (Nova, Neutron, Keystone, etc.), public cloud like AWS (S3, EC2, Lambda, CloudFormation, GatewayAPI, etc.)
-- Deep experience in filesystems & storage technologies, ext3/4, xfs, zfs, RAID technologies, NFS server/client (tunning & monitoring), experience with NetApp, Isilon. Solid understanding of disks & block level storage technologies, clustered filesystems & object storage technologies (GlusterFS, OpenStack Cinder/Swift)
+- Deep experience in filesystems & storage technologies, ext3/4, xfs, zfs, RAID technologies, NFS server/client (tuning & monitoring), experience with NetApp, Isilon. Solid understanding of disks & block level storage technologies, clustered filesystems & object storage technologies (GlusterFS, OpenStack Cinder/Swift)
 - Solid experience in grid compute clusters, schedulers, batch jobs, Sun Grid Engine, SLURM
 - Significant knowledge of Web servers, specifically Apache (httpd) also Nginx, some IIS, experience with SSL, Certificates, Reverse proxies, Web Sockets, Apache modules, securing/tuning.
 - Datacenter experience, working with rackmount hardware, out of bands mgmt IPMI, iLO, iDRAC. Solid understanding of server hardware, switches, knowledge of Cisco networking/CLI, switchport configuration, etc.
